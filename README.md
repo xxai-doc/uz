@@ -7,3 +7,4 @@ Veb-saytning front-end kodi ochiq manbadir, tarjimani optimallashtirishga yordam
 * [oldingi kod](https://github.com/xxai-art/web)
 * [Butun sayt uchun til paketlari](https://github.com/xxai-art/web/tree/main/i18n)
 * [Kirish modullari uchun til paketlari](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Ko'p tilli veb-sayt hujjatlari](https://github.com/xxai-doc)
